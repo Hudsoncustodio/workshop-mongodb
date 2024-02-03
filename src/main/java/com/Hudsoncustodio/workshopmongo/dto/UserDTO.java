@@ -1,4 +1,4 @@
-package com.Hudsoncustodio.workshopmongo.dbo;
+package com.Hudsoncustodio.workshopmongo.dto;
 
 import java.io.Serializable;
 import java.util.Objects;
